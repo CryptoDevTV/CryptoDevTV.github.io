@@ -9,6 +9,8 @@ baseurl: "/"
 
 markdown: kramdown
 theme: minima
+minima:
+  skin: dark
 gems:
   - jekyll-feed
 exclude:
