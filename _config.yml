@@ -5,8 +5,9 @@ author:
 description: > 
   Cryptocurrencies from developer perspective.
   
+show_excerpts: false
+  
 minima:
-  skin: dark
   social_links:
     twitter: tomkowalczyk
     github:  tkowalczyk
