@@ -14,3 +14,6 @@ theme: minima
 
 header_pages:
   - _pages/about.md
+
+include:
+    - _pages
