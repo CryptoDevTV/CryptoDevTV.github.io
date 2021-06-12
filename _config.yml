@@ -5,15 +5,10 @@ author:
 description: > 
   Cryptocurrencies from developer perspective.
   
-show_excerpts: false
+twitter_username: tomkowalczyk
+github_username: tkowalczyk
+linkedin_username: tkowalczyk
   
-minima:
-  social_links:
-    twitter: tomkowalczyk
-    github:  tkowalczyk
+show_excerpts: false
 
 theme: minima
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
