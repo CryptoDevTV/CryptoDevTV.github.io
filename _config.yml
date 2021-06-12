@@ -11,3 +11,6 @@ linkedin_username: kowalczykt
 show_excerpts: false
 
 theme: minima
+
+header_pages:
+  - about.md
