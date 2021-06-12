@@ -1,18 +1,18 @@
 title: CryptoDev.tv
-email: tkowalczyk.poczta@gmail.com
+author:
+  name: Tomasz Kowalczyk
+  email: tkowalczyk.poczta@gmail.com
 description: > 
   Cryptocurrencies from developer perspective.
-twitter_username: tomkowalczyk
-github_username:  tkowalczyk
-
-baseurl: "/"
-
-markdown: kramdown
-theme: minima
+  
 minima:
   skin: dark
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+   social_links:
+    twitter: tomkowalczyk
+    github:  tkowalczyk
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
