@@ -16,4 +16,4 @@ header_pages:
   - _pages/about.md
 
 include:
-    - _pages
+  - _pages
