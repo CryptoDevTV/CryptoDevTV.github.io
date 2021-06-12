@@ -7,7 +7,7 @@ description: >
   
 minima:
   skin: dark
-   social_links:
+  social_links:
     twitter: tomkowalczyk
     github:  tkowalczyk
 
