@@ -19,11 +19,25 @@
     noExcerpt=true
     noDate=true
     byTagName="featured"
-    readMoreButtonLabel="Lets dive in!"
+    readMoreButtonLabel="Find out more!"
     }}
   </div>
 
   <div class="homepage-section homepage-section-bg">
+    <div class="container">
+      <h1 class="homepage-header">Research</h1>
+      {{postsList
+      perPageLimit=3
+      currentPage=1
+      className="post-list-items"
+      dateFormat="dd mmmm yyyy"
+      byTagName="research"
+      readMoreButtonLabel="&#8674;"
+      }}
+    </div>
+  </div>
+
+  <div class="homepage-section">
     <div class="container">
       <h1 class="homepage-header">Coding</h1>
       {{postsList
@@ -32,20 +46,6 @@
       className="post-list-items"
       dateFormat="dd mmmm yyyy"
       byTagName="coding"
-      readMoreButtonLabel="&#8674;"
-      }}
-    </div>
-  </div>
-
-  <div class="homepage-section">
-    <div class="container">
-      <h1 class="homepage-header">Art and Design</h1>
-      {{postsList
-      perPageLimit=3
-      currentPage=1
-      className="post-list-items"
-      dateFormat="dd mmmm yyyy"
-      byTagName="art"
       readMoreButtonLabel="&#8674;"
       }}
     </div>

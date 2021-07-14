@@ -5,7 +5,7 @@ excerpt: "Excerpt of the sixth example post."
 coverImage: 'https://picsum.photos/id/202/1000/1000'
 tags:
   - tag6
-  - art
+  - research
 publicationDate: '2021-04-18'
 ---
 

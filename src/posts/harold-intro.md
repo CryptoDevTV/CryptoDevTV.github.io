@@ -1,17 +1,17 @@
 ---
 layout: 'blog-post'
-title: 'Harold is alive!'
+title: 'Give me the source code!'
 excerpt: "Excerpt of the featured example post."
 coverImage: 'https://picsum.photos/id/82/1500/600'
 tags:
   - tag7
   - featured
 publicationDate: '2021-04-18'
-ogTitle: 'Harold is alive!'
+ogTitle: 'Give me the source code!'
 ogDescription: 'Harold is a static site generator based on Handlebars templating system and markdown'
 ogUrl: ''
 ogImage: ''
-twitterTitle: 'Harold is alive!'
+twitterTitle: 'Give me the source code!'
 twitterDescription: 'Harold is a static site generator based on Handlebars templating system and markdown'
 twitterUrl: ''
 twitterImage: ''
