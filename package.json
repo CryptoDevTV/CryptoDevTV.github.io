@@ -1,0 +1,13 @@
+{
+  "name": "cryptodev-webapp",
+  "version": "0.0.1",
+  "description": "cryptodev-webapp",
+  "main": "index.js",
+  "scripts": {
+    "build": "harold-scripts build",
+    "start": "harold-scripts start"
+  },
+  "devDependencies": {
+    "harold-scripts": "^0.6.0"
+  }
+}
